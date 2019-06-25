@@ -1,0 +1,23 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "Electron test",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharos70/todos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharos70/todos/issues"
+  },
+  "homepage": "https://github.com/tharos70/todos#readme",
+  "dependencies": {
+    "electron": "^5.0.5"
+  }
+}
